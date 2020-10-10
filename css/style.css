@@ -1,0 +1,17 @@
+Body{
+
+}
+
+.page{
+widows: 100%;
+height: 800px;
+background-color: chartreuse;
+}
+
+.box{
+    width: 25%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(255, 127, 138);
+
+}
